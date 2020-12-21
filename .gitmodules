@@ -1,0 +1,3 @@
+[submodule "rce-03-counter-app"]
+	path = rce-03-counter-app
+	url = git@github.com:Eder87rh/rce-03-counter-app.git
